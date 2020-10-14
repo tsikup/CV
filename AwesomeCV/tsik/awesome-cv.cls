@@ -92,7 +92,7 @@
 %%%%%%%%%%%%
 % BIBLATEX %
 %%%%%%%%%%%%
-\usepackage[style=ieee,maxbibnames=10]{biblatex}
+\usepackage[style=ieee,maxbibnames=10,backend=biber,sorting=ydnt,defernumbers=true]{biblatex}
 
 %% emphasize author name when rendering bibliography
 % Note: requires: \usepackagage{biblatex}
